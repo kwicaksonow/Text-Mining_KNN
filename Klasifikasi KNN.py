@@ -103,11 +103,11 @@ def filtering(token):
 
 # Stemming
 def stemming(hasil_filter):
+    factory = StemmerFactory()
+    stemmer = factory.create_stemmer()
     stem = []
     for kata in hasil_filter:
         for x in kata:
-            factory = StemmerFactory()
-            stemmer = factory.create_stemmer()
             output = stemmer.stem(x)
             if x != output:
                 kata.remove(x)
