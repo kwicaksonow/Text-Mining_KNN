@@ -1,15 +1,15 @@
 # Text Mining with KNN Classifier
 Berikut merupakan penjelasan dari satu package bundle koding dan dataset
 
-1. File "Klasifikasi KNN.py" merupakan file yang berisi seluruh kodingan mengenai program project akhir klasifikasi KNN
+1. File "Klasifikasi KNN.py" is the file that contain the codes
 
-2. File "allcaption.txt" merupakan file yang digunakan/diperlukan dalam program untuk menyimpan hasil penggabungan isi 2 file caption yaitu cyberbullying dan non-cyberbullying oleh program
+2. File "allcaption.txt" is the file that required in the program for saving the result from combining the content of 2 file of caption that is cyberbullying and non-cyberbullying by the program
 
-3. File "cyberbullying.txt" merupakan file yang berisi kumpulan caption yang mengandung unsur cyberbullying yang akan dijadikan dataset cyberbullying
+3. File "cyberbullying.txt" is the file that contain set of caption with cyberbullying content for the cyberbullying dataset
 
-4. File "dokumenuji.txt" merupakan file yang digunakan/diperlukan dalam program untuk menyimpan teks yang merupakan hasil input "masukan teks" pada program dan nantinya diproses oleh program menjadi dokumen uji
+4. File "dokumenuji.txt" is the file that used in program for saving text which is  the result of input "masukan teks" in program and later processed by the program to become test data
 
-5. File "non-cyberbullying.txt" merupakan file yang berisi kumpulan caption yang tidak mengandung unsur cyberbullying yang akan dijadikan dataset non-cyberbullying
+5. File "non-cyberbullying.txt" is the file that contain set of caption with non-cyberbullying content for the non-cyberbullying dataset
 
-6. File "stopwordbahasa.csv" merupakan file yang berisi kumpulan kata-kata stopword yang akan digunakan pada program di bagian filtering yang membantu proses preprocessing
+6. File "stopwordbahasa.csv" is the file that contain set of stopwords which will used in the program in the filtering section that help the preprocessing
 
